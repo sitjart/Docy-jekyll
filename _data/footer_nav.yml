@@ -1,0 +1,77 @@
+footer_one:
+  footer_text: 
+  footer_logo_link: /
+  footer_bottom:
+    nav:
+      - title: News and events
+        url: "/blog"
+
+  footer_nav:
+    - title: Heading 1
+      col: col-lg-2 col-sm-6
+      paddingLeft: pl-30
+      navList:
+        - title: Heading 2
+          url: /
+          img: img/new/smile2.png
+        - title: Heading 2
+          url: /
+          img: img/new/doc2.png
+        - title: User Frontend
+          url: /
+          img: img/new/house2.png
+        - title: Heading 2
+          url: /docs/doc-element-lightbox
+          img: img/new/bag2.png
+
+    - title: Heading 1
+      col: col-lg-3 col-sm-6
+      paddingLeft: pl-100
+      navList:
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+
+    - title: Heading 1
+      col: col-lg-3 col-sm-6
+      paddingLeft: pl-100
+      navList:
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+        - title: Heading 2
+          url: /
+doc_footer:
+  - navList:
+      - title: Heading 2
+        url: /
+      - title: Heading 2
+        url: /
+      - title: Heading 2
+        url: /
+  -  navList:
+      - title: Heading 2
+        url: /
+      - title: Heading 2
+        url: /
+      - title: Heading 2
+        url: /
+  -  navList:
+      - title: Heading 2
+        url: /
+      - title: Heading 2
+        url: /

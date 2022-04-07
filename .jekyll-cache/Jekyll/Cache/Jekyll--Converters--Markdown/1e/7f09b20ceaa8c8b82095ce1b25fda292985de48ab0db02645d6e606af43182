@@ -1,0 +1,286 @@
+I"�1<section class="doc_banner_area banner_creative1">
+    <ul class="list-unstyled banner_shap_img">
+        <li><img alt="" src="img/new/banner_shap1.png" /></li>
+        <li><img alt="" src="img/new/banner_shap4.png" /></li>
+        <li><img alt="" src="img/new/banner_shap3.png" /></li>
+        <li><img alt="" src="img/new/banner_shap2.png" /></li>
+        <li><img alt="" data-parallax="{&quot;x&quot;: -180, &quot;y&quot;: 80, &quot;rotateY&quot;:2000}" src="img/new/plus1.png" /></li>
+        <li><img alt="" data-parallax="{&quot;x&quot;: -50, &quot;y&quot;: -160, &quot;rotateZ&quot;:200}" src="img/new/plus2.png" /></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+    <div class="container">
+        <div class="doc_banner_content">
+            <h2 class="wow fadeInUp">The X Bio Federation</h2>
+            <p class="wow fadeInUp" data-wow-delay="0.2s">Working on it...</p>
+        </div>
+    </div>
+</section>
+
+<section class="recommended_topic_area">
+    <div class="container">
+        <div class="recommended_topic_inner">
+            <img alt="" class="doc_shap_one" src="img/new/shap.png" />
+            <div class="doc_round one" data-parallax="{&quot;x&quot;: -80, &quot;y&quot;: -100, &quot;rotateY&quot;:0}"></div>
+            <div class="doc_round two" data-parallax="{&quot;x&quot;: -10, &quot;y&quot;: 70, &quot;rotateY&quot;:0}"></div>
+            <div class="doc_title text-center">
+                <h2 class="wow fadeInUp" data-wow-delay="0.2s">Some ideas</h2>
+                <p class="wow fadeInUp" data-wow-delay="0.4s">Eveything we have to share</p>
+            </div>
+            <div class="row">
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/smile.png" alt="" />
+                            <a href="#">
+                                <h3>Heading 1</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/doc.png" alt="" />
+                            <a href="#">
+                                <h3>Heading 1</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/bag.png" alt="" />
+                            <a href="#">
+                                <h3>Heading 1</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+                    <div class="col-lg-3 col-6">
+                        <div class="recommended_item wow fadeInUp" data-wow-delay="0.2s">
+                            <img src="img/new/house.png" alt="" />
+                            <a href="#">
+                                <h3>Heading 1</h3>
+                            </a>
+                            <ul class="list-unstyled">
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                                    <li>
+                                        <a href="/">Heading 2</a>
+                                    </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                
+            </div>
+            <div class="text-center wow fadeInUp" data-wow-delay="0.2s">
+                <a class="question_text" href="#">Want to know more or have a<br />
+                    Question?
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="doc_testimonial_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="doc_testimonial_slider">
+
+                    
+
+                    <div class="item">
+                        <h3>Tinkety tonk old fruit victoria sponge squiffy bleeder twit the bee's knees loo David, buggered haggle pear shaped bubble and squeak.”</h3>
+                        <div class="name">Penny Tool, <span>Director of Sales and Success</span></div>
+                        <a href="img/new/sign.png" target="_blank" class="sign"><img src="img/new/sign.png" alt="" /></a>
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <h3>Tinkety tonk old fruit victoria sponge squiffy bleeder twit the bee's knees loo David, buggered haggle pear shaped bubble and squeak.”</h3>
+                        <div class="name">Penny Tool, <span>Director of Sales and Success</span></div>
+                        <a href="img/new/sign.png" target="_blank" class="sign"><img src="img/new/sign.png" alt="" /></a>
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <h3>Tinkety tonk old fruit victoria sponge squiffy bleeder twit the bee's knees loo David, buggered haggle pear shaped bubble and squeak.”</h3>
+                        <div class="name">Penny Tool, <span>Director of Sales and Success</span></div>
+                        <a href="img/new/sign.png" target="_blank" class="sign"><img src="img/new/sign.png" alt="" /></a>
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <h3>Tinkety tonk old fruit victoria sponge squiffy bleeder twit the bee's knees loo David, buggered haggle pear shaped bubble and squeak.”</h3>
+                        <div class="name">Penny Tool, <span>Director of Sales and Success</span></div>
+                        <a href="img/new/sign.png" target="_blank" class="sign"><img src="img/new/sign.png" alt="" /></a>
+                    </div>
+
+                    
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="doc_img_slider">
+
+
+                    
+
+                    <div class="item">
+                        <img class="dot" src="img/new/dot.png" alt="" />
+                        <div class="round one"></div>
+                        <div class="round two"></div>
+                        <img src="img/new/feedback_img_02.jpg" alt="" />
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <img class="dot" src="img/new/dot.png" alt="" />
+                        <div class="round one"></div>
+                        <div class="round two"></div>
+                        <img src="img/new/feedback_img_03.jpg" alt="" />
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <img class="dot" src="img/new/dot.png" alt="" />
+                        <div class="round one"></div>
+                        <div class="round two"></div>
+                        <img src="img/new/feedback_img_04.jpg" alt="" />
+                    </div>
+
+                    
+
+                    <div class="item">
+                        <img class="dot" src="img/new/dot.png" alt="" />
+                        <div class="round one"></div>
+                        <div class="round two"></div>
+                        <img src="img/new/feedback_img.jpg" alt="" />
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="doc_subscribe_area">
+    <div class="container">
+        <div class="doc_subscribe_inner">
+            <img class="one" src="img/new/subscribe_shap.png" alt="" />
+            <img class="two" src="img/new/subscribe_shap_two.png" alt="" />
+            <div class="text wow fadeInLeft" data-wow-delay="0.2s">
+                <h2>Great Customer <br />Relationships start here</h2>
+            </div>
+            <form action="#" class="doc_subscribe_form wow fadeInRight mailchimp" data-wow-delay="0.4s" method="post">
+                <div class="form-group">
+                    <div class="input-fill">
+                        <input type="email" name="EMAIL" id="email" class="memail" placeholder="Your work email" />
+                    </div>
+                    <button type="submit" class="submit_btn">Get started</button>
+                    <p class="mchimp-errmessage" style="display: none;"></p>
+                    <p class="mchimp-sucmessage" style="display: none;"></p>
+                </div>
+                <ul class="list-unstyled">
+                    <li><a href="#">Messenger</a></li>
+                    <li><a href="#">Product Tours</a></li>
+                    <li><a href="#">Inbox and more</a></li>
+                </ul>
+
+            </form>
+        </div>
+    </div>
+</section>
+
+:ET

@@ -1,0 +1,110 @@
+# Navbar left menu navigation links
+
+left:
+  - title: Home
+    url: /
+
+  - title: Docs
+
+    url: /docs/doc-main/
+    megaMenu:
+      - title: Heading 1
+        id: v-pills-doc-tab
+        target: v-pills-doc
+        active: true
+        subtitle:
+          - title: Doc Topics
+            url: /docs/doc-main
+      - title: Heading 1
+        id: v-pills-code-tab
+        target: v-pills-code
+        active: false
+        subtitle:
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+      - title: Heading 1
+        id: v-pills-layout-tab
+        target: v-pills-layout
+        active: false
+        subtitle:
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+      - title: Heading 1
+        id: v-pills-ref-tab
+        target: v-pills-ref
+        active: false
+        subtitle:
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+      - title: Heading 1
+        id: v-pills-content-tab
+        target: v-pills-content
+        active: false
+        subtitle:
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+          - title: Heading 2
+            url: /
+      - title: Heading 1
+        id: v-pills-other-tab
+        target: v-pills-other
+        active: false
+        subtitle:
+          - title: Onepage
+            url: /onepage
+          - title: Doc Topics
+            url: /docs/doc-main
+          - title: Cheatsheet
+            url: /docs/doc-ref-cheatsheet
+          - title: Changelog
+            url: /docs/doc-changelog
+
+  - title: Pages
+    dropdown:
+      - title: Onepage Doc
+        url: /onepage
+      - title: Contact
+        url: /contact
+      - title: Typography
+        url: /typography
+      - title: 404 Error
+        url: /404
+
+  - title: News and events
+    url: /blog
