@@ -13,10 +13,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # gem "rails"
-gem "jekyll" , '4.2.0'
+gem "jekyll"
 gem 'jekyll-liquify'
 gem 'jekyll-seo-tag'
 gem 'webrick'
+gem 'github-pages'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

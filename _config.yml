@@ -10,10 +10,10 @@ description:        Thinking about it....
 lang:               en
 
 # Site base hostname & protocol, e.g. http://example.com
-url: ''
+url: 'Bio-Training-Federation'
 
 # Site subpath, e.g. /blog
-baseurl:            ""
+baseurl:            "/website-2"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink: /:title/
